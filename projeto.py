@@ -1,3 +1,6 @@
+# AVISO: ESSE CÓDIGO NÃO ESTÁ PRONTO E ESTÁ MUITO BUGADO. TALVEZ ELE NEM FUNCIONE PARA VOCÊ.
+# VOCÊ FOI AVISADO...
+
 import discord
 import random
 import asyncio
