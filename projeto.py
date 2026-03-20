@@ -1,6 +1,6 @@
 import discord
 import random
-import a
+import asyncio
 from discord.ext import commands 
 
 # A variável intents armazena as permissões do bot
